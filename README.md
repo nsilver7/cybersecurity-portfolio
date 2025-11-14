@@ -21,6 +21,18 @@ Each challenge pushes me to approach problems creatively under time pressure —
 
 ---
 
+## 🏅 NCL Fall 2025 Scores and Scouting Report
+
+Here’s a snapshot of my latest Scouting Report performance:
+
+![NCL Individual Score Report](images/ind_score.png)
+![NCL Team Score Report](images/team_score.png)
+
+Individual Rank: 302 / 7869
+Team Rank: **29** / 4214
+
+---
+
 ## 🧭 Reflection
 CTFs have strengthened not only my technical skills but also my persistence and teamwork. They’ve taught me how to **break down complex problems**, **collaborate effectively**, and **maintain composure under pressure**. The process of researching, testing, and validating hypotheses has directly enhanced my analytical skills as a security engineer.
 
