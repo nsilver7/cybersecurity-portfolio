@@ -29,6 +29,7 @@ Here’s a snapshot of my latest Scouting Report performance:
 ![NCL Team Score Report](images/team_score.png)
 
 Individual Rank: 302 / 7869
+
 Team Rank: **29** / 4214
 
 ---
